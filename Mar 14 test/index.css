@@ -1,0 +1,49 @@
+body{
+    margin: 0px;
+    background-image: url('./image.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Noto Sans',sans-serif;
+
+}
+
+.main{
+    position: fixed;
+    top: 160px;
+    left: 650px;
+    border: 2px  solid black;
+    width: 340px;
+    height: 400px;
+    background-color: lightyellow;
+}
+
+.input_search{
+    margin-top: 30px;
+}
+
+h1{
+    font-size: 40px;
+    font-style: italic;
+}
+
+.dynamic{
+    margin-top: 40px;
+    border: 2px solid #24f109;
+}
+
+input{
+    background-color:#f35f0a;
+    color: #a62bc1;
+    width: 220px;
+    height: 30px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+button{
+    background-color: #e70a0a;
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding: 8px;
+} 
